@@ -1,0 +1,16 @@
+{
+	"appVendor": "Proactive",
+	"appID": "LabPro",
+	"appVersion": "5.0",
+	"results": [
+		{
+			"id": 2,
+            "ts":"2024-01-02T12:44:11Z",
+			"traceId": "c23ffe63482c8b1d",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.e68539fa85^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "myTESTCASE2.pdf"
+                ]
+		}
+	]
+}
